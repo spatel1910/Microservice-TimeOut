@@ -29,7 +29,7 @@ public class EmployeeServiceApplication {
 
 	}
 
-
+//Here time duration is 3 secends, if address service dose not respond within 3 sec it will timeout, for testing go and change sleep time is address service more than 3 sec
 }
 /* This is the extended version of Timeout, above we did only for response time out
 Here we can do timeout for
